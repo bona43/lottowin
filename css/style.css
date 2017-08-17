@@ -1,0 +1,24 @@
+
+.open-header{
+	color: red;
+	text-align: center;
+	margin-top: 10%;
+}
+
+.box-input{
+	margin-bottom: 2%;
+
+}
+
+input{
+	border-color: stealblue;
+	height: 25px;
+	border-radius: 4px;
+	box-shadow: 4px 4px 4px grey;
+
+}
+
+label{
+	color: black;
+
+}
