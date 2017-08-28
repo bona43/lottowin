@@ -1,5 +1,5 @@
 <?php
-
+// using maths to generate the logic
 // the code for the generating the random like the lotto system
 
 /*function generateLotto($min, $max, $quantity){
